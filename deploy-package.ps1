@@ -1,1 +1,1 @@
-write-host Hey Jared, what are you doing?
+write-host starting install
